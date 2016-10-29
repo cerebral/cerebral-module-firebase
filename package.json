@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cerebral/cerebral-module-firebase.git"
+    "url": "git+https://github.com/cerebral-legacy/cerebral-module-firebase.git"
   },
   "keywords": [
     "firebase",
@@ -24,7 +24,7 @@
   "author": "Christian Alfoni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cerebral/cerebral-module-firebase/issues"
+    "url": "https://github.com/cerebral-legacy/cerebral-module-firebase/issues"
   },
-  "homepage": "https://github.com/cerebral/cerebral-module-firebase#readme"
+  "homepage": "https://github.com/cerebral-legacy/cerebral-module-firebase#readme"
 }
